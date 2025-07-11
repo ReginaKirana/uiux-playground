@@ -29,7 +29,7 @@ I created this repository to:
 ---
 
 ## 📌 What's Next?
-I'm always exploring new ideas and projects—more designs coming soon! Stay tuned 🌱
+I'm always exploring new ideas and projects — more designs coming soon! Stay tuned 🌱
 
 ---
 
