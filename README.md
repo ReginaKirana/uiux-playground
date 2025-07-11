@@ -7,7 +7,7 @@ Welcome to my **UI/UX Playground** — a collection of design explorations, mini
 ## 🚀 Projects
 
 1. [Pravora](./Pravora/README.md)  
-*Mini mobile app UI/UX design practice.*
+*Mobile app design for AI-powered public speaking training.*
 
 2. [KotaKita](./KotaKita/README.md)  
 *Mobile app design for reporting public facility damages.*
