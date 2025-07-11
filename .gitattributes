@@ -1,0 +1,18 @@
+# Handle line endings automatically for cross-platform consistency
+* text=auto
+
+# Treat common image formats as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+
+# Identify Figma files (if stored) as documentation, not code
+*.fig linguist-documentation
+*.fig linguist-vendored
+
+# Optional: Exclude design files from language stats
+*.psd linguist-vendored
+*.ai linguist-vendored
+*.xd linguist-vendored
