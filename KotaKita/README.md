@@ -1,6 +1,6 @@
 # KotaKita — Mobile App UI/UX Design 📱
 
-![KotaKita Banner](./assets/splash-screen.png)
+![KotaKita Banner](./assets/logo.png)
 
 ---
 
