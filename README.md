@@ -12,6 +12,8 @@ Welcome to my **UI/UX Playground** — a collection of design explorations, mini
 2. [KotaKita](./KotaKita/README.md)  
 *Mobile app design for reporting public facility damages.*
 
+2. [Web001_NFTs](./Web001_NFTs/README.md)  
+*Web design for selling NFTs.*
 ---
 
 ## 🎨 Tools Used
