@@ -23,7 +23,7 @@ The design combines futuristic gradients, clean layout, and clear CTAs to encour
 
 | ✏️ Initial Sketch | 💻 Digital Wireframe |
 |-------------------|----------------------|
-| ![](./assets/sketch.jpg) | ![](./assets/wireframe.jpg) |
+| ![](./assets/sketch.png) | ![](./assets/wireframe.png) |
 
 ---
 
