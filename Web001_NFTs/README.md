@@ -38,7 +38,7 @@ The design combines futuristic gradients, clean layout, and clear CTAs to encour
 ## 🧩 UI Detail Preview
 
 | Hero & Features | View Pricing | Analytics | Testimonials | Get Started & Footer |
-|-----------------|--------------------------|--------------|----------------------|
+|-----------------|--------------|-----------|--------------|----------------------|
 | ![](./assets/NFTs_detail01.png) | ![](./assets/NFTs_detail02.png) | ![](./assets/NFTs_detail03.png) | ![](./assets/NFTs_detail04.png) | ![](./assets/NFTs_detail05.png) |
 
 ---
