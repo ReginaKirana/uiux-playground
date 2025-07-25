@@ -6,24 +6,24 @@
 
 ## ✨ About the Project
 
-This is a concept design for a **desktop landing page** focused on NFTs (Non-Fungible Tokens). The page is designed to allow users to **discover, collect, and sell rare NFTs** while providing features like **built-in analytics** and **testimonials** to build trust and engagement.
+This is a concept design for a **desktop landing page** focused on NFTs (Non-Fungible Tokens). The landing page is designed to help users **discover, collect, and sell rare NFTs** while highlighting powerful features like **built-in analytics** and **community testimonials**.
 
-The visual style emphasizes **modern gradients**, **minimalism**, and **futuristic elements** to match the tech-forward theme of Web3.
+The design combines futuristic gradients, clean layout, and clear CTAs to encourage user interaction and trust.
 
 ---
 
 ## 🎨 Tools Used
 - Figma
 - Pen & Paper (Sketch)
-- Digital Wireframe Tools
+- Wireframe Tool (Digital)
 
 ---
 
 ## 🧠 Design Process
 
-| Initial Sketch | Digital Wireframe |
-|----------------|-------------------|
-| ![](./assets/sketch.png) | ![](./assets/wireframe.png) |
+| ✏️ Initial Sketch | 💻 Digital Wireframe |
+|-------------------|----------------------|
+| ![](./assets/sketch.jpg) | ![](./assets/wireframe.jpg) |
 
 ---
 
@@ -35,22 +35,43 @@ The visual style emphasizes **modern gradients**, **minimalism**, and **futurist
 
 ---
 
-## 🧩 Key Sections in UI
-- 🚀 **Hero Section** with CTA buttons (Buy NFTs / Sell NFTs)
-- 🧾 **Built-In Analytics** feature highlights
-- 💬 **Testimonials** section with user feedback
-- 📣 **Call to Action** block to engage users
-- 🦶 **Footer** with nav links and newsletter
+## 🧩 UI Detail Preview
+
+| Hero & Features | View Pricing | Analytics | Testimonials | Get Started & Footer |
+|-----------------|--------------------------|--------------|----------------------|
+| ![](./assets/NFTs_detail01.png) | ![](./assets/NFTs_detail02.png) | ![](./assets/NFTs_detail03.png) | ![](./assets/NFTs_detail04.png) | ![](./assets/NFTs_detail05.png) |
 
 ---
 
-## 📌 What I Learned
-- Building a visual hierarchy for desktop layouts
-- Designing with both aesthetics and usability in mind
-- Practicing responsive-friendly grid structures
-- Maintaining consistency in components (buttons, cards, text blocks)
+## 📌 Key Sections in the UI
+
+- 🚀 **Hero Section**  
+  Bold headline with CTA buttons like “Buy NFTs” and “Sell NFTs”
+
+- 📰 **Featured On**  
+  Logos from known media sources for credibility
+
+- 📊 **Analytics Section**  
+  Explains tracking tools and user insights for NFT activity
+
+- 💬 **Testimonials**  
+  Real user feedback to build trust
+
+- 📣 **Final Call to Action**  
+  Motivates user to get started and be part of the movement
+
+- 🦶 **Footer**  
+  Contains navigation and newsletter subscription
 
 ---
 
-Designed by **[ReginaKirana](https://github.com/ReginaKirana)**  
-*UI/UX Concept Only — Not Yet Developed*
+## 💡 What I Learned
+
+- Designing modern landing pages with structured hierarchy
+- Making sure each section leads to action or engagement
+- Managing consistent UI components and color schemes
+- Enhancing readability and visual balance for desktop screen
+
+---
+
+📁 **Assets Folder Structure:**
