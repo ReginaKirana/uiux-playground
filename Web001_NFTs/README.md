@@ -75,3 +75,4 @@ The design combines futuristic gradients, clean layout, and clear CTAs to encour
 ---
 
 📁 **Assets Folder Structure:**
+[NFTs_Assets](./assets)  
